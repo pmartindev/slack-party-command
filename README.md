@@ -1,2 +1,3 @@
 # slack-party-command
-A repository to run the backend host of the slack-party slash command in AWS. 
+An example of using AWS Chalice to create a simple Slack slash command. This particular slash command takes a message and surrounds it with party emojis. 
+

@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/usr/local/opt/python/bin/python3.7",
+    "python.linting.mypyEnabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "editor.rulers": [100]
+}
